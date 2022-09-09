@@ -1,4 +1,4 @@
 # system-design
 backend architecture.  
 
-![Alt text here](Teamlix backend design.drawio.svg)
+![Alt text here](teamlix_backend_design.drawio.svg)
